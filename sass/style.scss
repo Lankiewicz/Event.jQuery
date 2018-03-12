@@ -1,0 +1,22 @@
+ul {
+	padding: 0;
+	width: 3000px;
+}
+li {
+	width: 600px;
+	height: 350px;
+	list-style: none;
+	float: left;
+}
+img {
+	height: 100%;
+	width: 100%;
+}
+#carousel {
+	text-align: -webkit-center;
+	width: 600px;
+    height: 350px;
+    margin: 0 auto;
+    border-style: solid;
+    overflow: inherit;
+}
